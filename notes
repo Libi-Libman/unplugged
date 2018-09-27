@@ -1,0 +1,50 @@
+-Header:
+    -Logo
+    -Navigation:
+        -About Us icon
+        -About Us
+        -FAQs icon
+        -FAQs
+
+-Content Area:
+    -Top News section:
+        -Top photo
+        -Top title
+        -Top description
+    -Side Bar section:
+        -Newsletter Signup title
+        -Newsletter Signup field
+        -Newsletter Signup button
+        -About Us title
+        -About Us description
+        -About Us button
+        -FAQs title
+        -FAQs description
+        -FAQs button
+    -Recent News section
+        -Recent News title
+        -6 news sections:
+            -Recent News title
+            -News photo
+            -News title
+            -News description
+
+-Footer:
+    -Logo
+
+
+    main-header (for the header)
+    header-wrapper (the div that contains the header content)
+    logo (this should be a class of a figure)
+    hero-area (the container for the top story)
+    top-story (the top story!)
+    top-img (the image in the top story)
+    sidebar (for the sidebar aside)
+    sidebar-newsletter (for the newsletter signup module)
+    sidebar-about-us (for the sidebar about us module)
+    sidebar-faqs (for the sidebar faqs module)
+    feed (for the news feed)
+    feed-item (one item in the feed)
+    feed-type (the feed category)
+    feed-img (the image for each feed item)
+    footer-logo (the logo in the footer)
